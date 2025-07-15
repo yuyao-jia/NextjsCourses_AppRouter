@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22ea92b1-ee27-442c-9cc2-1aa617b2ea84" name="Changes" comment="Ch6 of app router">
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/(overview)/loading.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/(overview)/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/query/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/query/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/cards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="working" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
@@ -28,28 +39,39 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "yuyao-jia"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yuyao-jia&quot;
   }
+}</component>
+  <component name="GitHubPullRequestState"><![CDATA[{
+  "prStates": [
+    {
+      "id": {
+        "id": "PR_kwDOPNDkvc6fCSdS",
+        "number": 1
+      },
+      "lastSeen": 1752602384752
+    }
+  ]
 }]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/yuyao-jia/NextjsCourses_AppRouter.git",
-    "accountId": "1eeb8948-62e4-45a6-b03b-1da2a08657ed"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yuyao-jia/NextjsCourses_AppRouter.git&quot;,
+    &quot;accountId&quot;: &quot;1eeb8948-62e4-45a6-b03b-1da2a08657ed&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "yuyao-jia",
-    "repository": "NextjsCourses_AppRouter"
+    &quot;owner&quot;: &quot;yuyao-jia&quot;,
+    &quot;repository&quot;: &quot;NextjsCourses_AppRouter&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -69,17 +91,22 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "#1 on working",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "ts.external.directory.path": "/Users/yuyaojia/WebstormProjects/NextjsCourses_AppRouter/nextjs-dashboard/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/overview" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
