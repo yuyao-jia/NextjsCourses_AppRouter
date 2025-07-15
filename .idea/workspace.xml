@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="22ea92b1-ee27-442c-9cc2-1aa617b2ea84" name="Changes" comment="Ch6 of app router">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/.env.example" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/query/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/query/route.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +95,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751656378266</updated>
       <workItem from="1751656379414" duration="7144000" />
-      <workItem from="1752594151180" duration="6697000" />
+      <workItem from="1752594151180" duration="6781000" />
     </task>
     <task id="LOCAL-00001" summary="Ch3 of app router">
       <option name="closed" value="true" />
@@ -123,7 +121,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752601057695</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ch6 of app router">
+      <option name="closed" value="true" />
+      <created>1752602322769</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752602322769</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
