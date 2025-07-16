@@ -1,4 +1,5 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
+export const experimental_ppr = true;
 //The <Layout /> component receives a children prop that can either be a page or another layout.
 //In case below, pages inside /dashboard will automatically be nested inside a <Layout /> component.
 export default function Layout({ children }: { children: React.ReactNode }) {

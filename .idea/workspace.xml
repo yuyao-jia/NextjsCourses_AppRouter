@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22ea92b1-ee27-442c-9cc2-1aa617b2ea84" name="Changes" comment="Ch6 of app router">
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/(overview)/loading.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/(overview)/page.tsx" afterDir="false" />
+    <list default="true" id="22ea92b1-ee27-442c-9cc2-1aa617b2ea84" name="Changes" comment="Ch9 of app router">
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/[id]/edit/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/create/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/lib/data.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/query/route.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/query/route.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/cards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/cards.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/latest-invoices.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/dashboard/revenue-chart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/invoices/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/dashboard/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/buttons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/buttons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/create-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/create-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/edit-form.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/edit-form.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/pagination.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/invoices/pagination.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/app/ui/search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/app/ui/search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nextjs-dashboard/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/nextjs-dashboard/pnpm-lock.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752602322769</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Ch9 of app router">
+      <option name="closed" value="true" />
+      <created>1752610485409</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752610485409</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +178,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ch3 of app router" />
     <MESSAGE value="Ch6 of app router" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ch6 of app router" />
+    <MESSAGE value="Ch9 of app router" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ch9 of app router" />
   </component>
 </project>
